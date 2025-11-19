@@ -1,1 +1,1 @@
-# Image-audio-cpationing-system-for-hearing-impaired
+# Image-audio-captioning-system-for-hearing-impaired
